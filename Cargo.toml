@@ -1,5 +1,5 @@
 [package]
-name = "actix_api"
+name = "tasks_svc"
 version = "0.1.0"
 authors = ["funyx <ddobchev@gmail.com>"]
 edition = "2021"

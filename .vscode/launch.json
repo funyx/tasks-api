@@ -9,8 +9,8 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--bin=hello_remote_world",
-                    "--package=hello_remote_world",
+                    "--bin=tasks_svc",
+                    "--package=tasks_svc",
                     "--manifest-path=Cargo.toml"
                 ],
                 "filter": {
